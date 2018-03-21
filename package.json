@@ -64,6 +64,6 @@
     "zone.js": "^0.7.2"
   },
   "dependencies": {
-    "rut-helpers": "git+https://github.com/vigohe/rut-helpers.git"
+    "rut-helpers": "git+https://github.com/vigohe/rut-helpers.git#add-dist"
   }
 }
